@@ -1,0 +1,30 @@
+Heap:
+
+	Key: 0
+		Frame: 
+		Links:
+
+		------
+		Slots:
+
+
+	Key: 1
+		Frame: 
+		Links:
+			P -> 0
+
+		------
+		Slots:
+			p -> 2
+ 			bvYJR -> 1
+ 			WzgSX -> 0
+ 
+
+
+----------------
+Store:
+Loc: 0, Value: 22
+Loc: 1, Value: 22
+Loc: 2, Value: 22
+
+****************
